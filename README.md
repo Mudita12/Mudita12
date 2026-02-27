@@ -1,20 +1,69 @@
-## Mudita Bhatnagar — UI/UX Designer
+# Hi, I'm Mudita 👋  
+UI/UX Designer | Product Thinker | 3D Artist  
 
-This repository includes a basic portfolio website built with **HTML + CSS + JavaScript**.
+I design digital experiences that are intuitive, research-backed, and built with real-world constraints in mind.  
+My focus is not just how things look — but how they work, scale, and solve meaningful problems.
 
-### Run locally
+---
 
-- **Option A (quickest)**: open `index.html` in your browser.
-- **Option B (recommended)**: run a local server so links and assets behave like production.
+## 🧠 What I Do
 
-```bash
-python3 -m http.server 5500
-```
+- UX Research & User Interviews  
+- Information Architecture & User Flows  
+- Wireframing & Prototyping  
+- Design Systems & Component Libraries  
+- Usability Testing  
+- Mobile & Web App Design  
+- Cross-team Collaboration with Developers  
 
-Then open `http://localhost:5500`.
+I enjoy turning complex workflows into clear, human-centered interfaces.
 
-### Customize
+---
 
-- **Edit content** in `index.html` (Work cards, About, links).
-- **Update styles** in `styles.css`.
-- **Update behavior** in `script.js` (theme toggle, mobile menu, contact form).
+## 🚀 Featured Projects
+
+### Elderly Express  
+A ride-hailing app designed specifically for elderly users.  
+Led the full design process — from empathy mapping to usability testing.  
+Focused on accessibility, clarity, and reduced cognitive load.
+
+### Easy Admission Application  
+Worked on growth, onboarding, and activation flows.  
+Collaborated closely with developers during deployment to ensure feasibility and clarity.
+
+### Book Your Table  
+Online dine-in reservation platform with personalized seating and butler experience.  
+Focused on structured booking flows and experience-led UI decisions.
+
+### Feedback Module (Design Library)  
+Built a scalable design library covering major components and system logic.  
+Currently evolving into a structured design system.
+
+---
+
+## 🛠 Tools & Technologies
+
+Figma · Adobe XD · Sketch  
+Adobe After Effects · Illustrator · Photoshop  
+Miro · Notion · Jira  
+V-Ray · Redshift · Arnold  
+
+---
+
+## 🎯 My Design Approach
+
+1. Understand the real problem  
+2. Challenge assumptions  
+3. Prototype quickly  
+4. Test early  
+5. Iterate with engineering constraints  
+
+Good design is not decoration — it's decision-making.
+
+---
+
+## 📫 Let's Connect
+
+Behance: https://www.behance.net/muditabhatnagar1209  
+LinkedIn: (Add your link)  
+Email: (Add your email)
